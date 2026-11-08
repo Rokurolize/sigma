@@ -27,3 +27,4 @@ $ npm run prettier      # Runs prettier, reporting any formatting issues
 $ npm run prettier:fix  # Runs prettier, automatically fixing issues
 $ npm run minify        # Minifies sigma.css and places it into dist/
 ```
+
